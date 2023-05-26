@@ -1,0 +1,15 @@
+C:\Users\codeceuma\MeuApp\rede\bin\Debug\net7.0\rede.exe
+C:\Users\codeceuma\MeuApp\rede\bin\Debug\net7.0\rede.deps.json
+C:\Users\codeceuma\MeuApp\rede\bin\Debug\net7.0\rede.runtimeconfig.json
+C:\Users\codeceuma\MeuApp\rede\bin\Debug\net7.0\rede.dll
+C:\Users\codeceuma\MeuApp\rede\bin\Debug\net7.0\rede.pdb
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.csproj.AssemblyReference.cache
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.AssemblyInfoInputs.cache
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.AssemblyInfo.cs
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.csproj.CoreCompileInputs.cache
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.dll
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\refint\rede.dll
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.pdb
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\rede.genruntimeconfig.cache
+C:\Users\codeceuma\MeuApp\rede\obj\Debug\net7.0\ref\rede.dll
